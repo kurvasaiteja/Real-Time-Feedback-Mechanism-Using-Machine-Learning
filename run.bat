@@ -1,2 +1,0 @@
-python HumanPerformance.py
-pause
